@@ -1,7 +1,7 @@
 from os import system
 import random
 detalleCompra =[[],[],[],[],[],[],[],[]]
-
+#lista que se desea agregar
 
 def menuOpciones():
   print("¿Que acción desea realizar?")
